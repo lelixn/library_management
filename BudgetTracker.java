@@ -1,3 +1,5 @@
+// Here is a budget tracking code that monitors your income and your spendings. 
+
 import java.util.Scanner;
 
 public class BudgetTracker {
